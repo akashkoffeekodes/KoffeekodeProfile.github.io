@@ -58096,10 +58096,10 @@ else{s=a6>=900&&a6<=1100?a6/1.84:a6/1.59
 s=A.e8(a,A.y_(A.i6(a0,a,250),a,a),a,B.va,a,a,a,s)}if(A.aL(a7,a,a4).w.a.a>=1100)r=a6/2.7
 else r=a6>=900&&a6<=1100?a6/2.2:a6
 q=A.i6("assets/images/half2.png",a,400)
-if(A.aL(a7,a,a4).w.a.a<900){p=A.tc(a7)?230:160
+if(A.aL(a7,a,a4).w.a.a<900){p=A.tc(a7)?230:165
 o=$.dg()
 n=t.nA
-n=A.f7(A.a([new A.db(B.xG,A.e8(a,A.f7(A.a([new A.nE(a),A.i6(a0,a,55),B.a6,A.d5(a1,B.bl.vO(B.a2,22),a),A.d5(a2,B.aj.vO(B.a2,11),a),B.h5,A.d5(a3,B.aj.vO(B.a2,11),a),new A.nE(a)],n),B.a3,B.V),a,B.vb,p*(o/759),a,a,a6),a)],n),B.a3,B.V)
+n=A.f7(A.a([new A.db(B.xG,A.e8(a,A.f7(A.a([new A.nE(a),A.i6(a0,a,55),B.a6,A.d5(a1,B.bl.vO(B.a2,20),a),A.d5(a2,B.aj.vO(B.a2,10),a),B.h5,A.d5(a3,B.aj.vO(B.a2,10),a),new A.nE(a)],n),B.a3,B.V),a,B.vb,p*(o/759),a,a,a6),a)],n),B.a3,B.V)
 p=n}else p=A.f7(A.a([B.F5,A.d5(a1,B.bl.d1(32),a),A.d5(a2,B.aj.d1(16),a),B.h5,A.d5(a3,B.aj.d1(16),a)],t.nA),B.a3,B.V)
 o=A.aL(a7,a,a4).w.a.a<900?B.F4:B.F6
 n=A.d5("Phone, Messengers & Email",B.bl.d1(A.aL(a7,a,a4).w.a.a<900?15:18),a)
@@ -60606,7 +60606,7 @@ B.xE=new A.bg(15,0,15,0)
 B.xF=new A.bg(16,0,16,0)
 B.eW=new A.bg(16,16,16,16)
 B.df=new A.bg(18,18,18,18)
-B.xG=new A.bg(22,22,22,22)
+B.xG=new A.bg(20,20,20,20)
 B.xH=new A.pZ(null)
 B.xI=new A.q_(0,"noOpinion")
 B.xJ=new A.q_(1,"enabled")
