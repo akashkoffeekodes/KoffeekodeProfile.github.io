@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "daca3e807f035f1443c9bc5bb2985205",
-"assets/AssetManifest.smcbin": "a03f466d6c6501bfd2c2cf7c1287774d",
+const RESOURCES = {"assets/AssetManifest.json": "2500e955483ebc1a4dcfa48767be768e",
+"assets/AssetManifest.smcbin": "4df68d30d7188e742910a7da5d16446b",
 "assets/assets/fonts/Poppins-Bold.ttf": "08c20a487911694291bd8c5de41315ad",
 "assets/assets/fonts/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
 "assets/assets/images/addressbg.png": "da0ead85ffb3b8e40cdf9d55e31bbb99",
@@ -25,6 +25,7 @@ const RESOURCES = {"assets/AssetManifest.json": "daca3e807f035f1443c9bc5bb298520
 "assets/assets/images/web.svg": "b31298b362a092a647a9e8ce6854b471",
 "assets/assets/images/webBackground.svg": "a8bfbe799b3a2d4cdc675f3e9760be4f",
 "assets/assets/images/whatsaap.png": "55693905d37c725a3de1988ff2266592",
+"assets/assets/images/whatsaap2.png": "e21f11e80b7fc1ad425143b180c1f882",
 "assets/FontManifest.json": "f75a08cfbdd55f3cbed066f977c7b72f",
 "assets/fonts/MaterialIcons-Regular.otf": "62ec8220af1fb03e1c20cfa38781e17e",
 "assets/NOTICES": "80bbbed366a2fdd4f3d6e5ffeaebbc9b",
@@ -43,9 +44,9 @@ const RESOURCES = {"assets/AssetManifest.json": "daca3e807f035f1443c9bc5bb298520
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b60eaa50ffa252ae0dc390ea2b2f8131",
-"/": "b60eaa50ffa252ae0dc390ea2b2f8131",
-"main.dart.js": "0c3531e576758c5942dacea1d2f6d979",
+"index.html": "6e42cb4e0e3235fe5a14f09f205c6716",
+"/": "6e42cb4e0e3235fe5a14f09f205c6716",
+"main.dart.js": "a39d2ab80cc592405242017f450d70d3",
 "manifest.json": "18c6df433435bd398e8c3e5be726e3b8",
 "version.json": "a194751728fa72a7de32f6a7395a3f29"};
 // The application shell files that are downloaded before a service worker can
